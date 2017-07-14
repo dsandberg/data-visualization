@@ -1,0 +1,49 @@
+{
+ "name": "Service Design",
+ "children": [
+  {
+   "name": "Strategy",
+   "children": [
+    {
+     "name": "Business Emphaty",
+     "children": [
+      {"name": "Design intel & ROI", "size": 2},
+      {"name": "Solve strategy problems", "size": 10},
+      {"name": "Create Living business", "size": 8}
+     ]
+    },
+    {
+     "name": "Service Vision",
+     "children": [
+      {"name": "Design rersearch", "size": 1},
+      {"name": "Journey mapping", "size": 22},
+      {"name": "Service Ecosystem", "size": 3},
+      {"name": "Service design concept", "size": 11}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "DPC",
+   "children": [
+    {
+     "name": "Experience",
+     "children": [
+      {"name": "Brand manifesto", "size": 22},
+      {"name": "UI Concepting", "size": 100},
+      {"name": "Prototyping", "size": 1},
+      {"name": "User validation", "size": 1}
+     ]
+    },
+    {
+     "name": "Product",
+     "children": [
+      {"name": "Architecture", "size": 23},
+      {"name": "Functional build", "size": 1},
+      {"name": "Pilot lauch", "size": 7}
+     ]
+    }
+   ]
+  }
+ ]
+}
